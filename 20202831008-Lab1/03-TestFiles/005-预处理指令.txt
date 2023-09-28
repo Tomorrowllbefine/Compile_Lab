@@ -1,0 +1,6 @@
+#ifndef __A__
+#include<iostream>
+#define  
+#endif
+#pragma
+#if

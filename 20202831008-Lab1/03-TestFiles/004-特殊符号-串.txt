@@ -1,0 +1,13 @@
+"sahjdak"
+'a'
+void Person::getName()
+{
+    return this->name; 
+}
+
+char c[20] = {'\0'};
+
+cout<<"hello world";
+int a;
+cin>>a;
+ 

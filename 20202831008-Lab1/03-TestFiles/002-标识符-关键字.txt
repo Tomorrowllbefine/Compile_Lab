@@ -1,0 +1,6 @@
+//标识符 
+ x  y  abc123   xy    _xy    xy_xy23
+
+//保留字 
+ if  else do while for switch case break   continue default 
+cout
