@@ -1,2 +1,2 @@
-# Lab_Compile
+# Compile_Lab
 Compile study
